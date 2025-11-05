@@ -17,7 +17,7 @@ const inter = Inter({
 
 // Define your local PP Neuebit font
 const ppNeuebit = localFont({
-  src: './fonts/PPNeuebit-Bold.otf', // <-- IMPORTANT: Make sure this filename matches your font file exactly
+  src: './fonts/ppneuebit-bold.otf', // <-- IMPORTANT: Make sure this filename matches your font file exactly
   variable: '--font-neuebit',
   display: 'swap',
   weight: '700'
