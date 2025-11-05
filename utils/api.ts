@@ -1,0 +1,1 @@
+export const API_BASE_URL: string = "https://1pnszjn9th.execute-api.us-east-1.amazonaws.com";
