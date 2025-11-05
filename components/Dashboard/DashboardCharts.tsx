@@ -1,6 +1,6 @@
 'use client';
 import React from 'react';
-import { ProcessedDocument } from '../../app/types';
+import { ProcessedDocument } from '@/app/types';
 import { 
   BarChart, Bar, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer 
 } from 'recharts';

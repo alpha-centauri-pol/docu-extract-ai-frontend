@@ -1,7 +1,7 @@
 'use client';
 import React, { useState } from 'react';
 import Modal from '../ui/Modal';
-import { API_BASE_URL } from '../../utils/api';
+import { API_BASE_URL } from '@/utils/api';
 
 interface UploadModalProps {
   isOpen: boolean;

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ProcessedDocument } from '../../app/types';
+import { ProcessedDocument } from '@/app/types';
 
 interface TableRowProps {
   doc: ProcessedDocument;

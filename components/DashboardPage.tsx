@@ -6,9 +6,9 @@ import ChatModal from './chat/ChatModal';
 import UploadModal from './Dashboard/UploadModal';
 import StatCard from './Dashboard/StatCard';
 import DocumentTable from './Dashboard/DocumentTable';
-import DashboardCharts from './Dashboard/DashboardCharts'; // <-- 1. IMPORT
-import { API_BASE_URL } from '../utils/api';
-import { ProcessedDocument } from '../app/types';
+import DashboardCharts from './Dashboard/DashboardCharts'; 
+import { API_BASE_URL } from '@/utils/api';
+import { ProcessedDocument } from '@/app/types';
 import CategoryProgressCard from './Dashboard/CategoryProgressCard';
 import CategoryDonutCard from './Dashboard/CategoryDonusCard';
 interface ChatButtonProps {

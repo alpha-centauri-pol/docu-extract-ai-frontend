@@ -1,8 +1,8 @@
 'use client';
 import React, { useState } from 'react';
 import Modal from '../ui/Modal';
-import { API_BASE_URL } from '../../utils/api';
-import { ChatMessage } from '../../app/types';
+import { API_BASE_URL } from '@/utils/api';
+import { ChatMessage } from '@/app/types';
 
 interface ChatModalProps {
   isOpen: boolean;
